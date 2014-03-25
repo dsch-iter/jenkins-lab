@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="Kyles-MacBook-Pro.local" name="test.java.com.albion.RPN.RPNTest" tests="2" failures="0" timestamp="25 Mar 2014 08:05:21 GMT" time="0.017" errors="0">
-  <testcase name="evalRPN" time="0.008" classname="test.java.com.albion.RPN.RPNTest"/>
-  <testcase name="evalRPN" time="0.0" classname="test.java.com.albion.RPN.RPNTest"/>
-</testsuite>
