@@ -1,6 +1,6 @@
-package test.java.com.albion.RPN;
+package test.albion.RPN;
 
-import main.java.com.albion.RPN.Solution;
+import com.albion.RPN.Solution;
 
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
